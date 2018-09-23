@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\编程学习\C#\Csharp\Hello Word\ConsoleHelloword\ConsoleHelloword\bin\Debug\ConsoleHelloword.exe
+C:\Users\Administrator\Desktop\编程学习\C#\Csharp\Hello Word\ConsoleHelloword\ConsoleHelloword\bin\Debug\ConsoleHelloword.pdb
+C:\Users\Administrator\Desktop\编程学习\C#\Csharp\Hello Word\ConsoleHelloword\ConsoleHelloword\obj\x86\Debug\ConsoleHelloword.exe
+C:\Users\Administrator\Desktop\编程学习\C#\Csharp\Hello Word\ConsoleHelloword\ConsoleHelloword\obj\x86\Debug\ConsoleHelloword.pdb
