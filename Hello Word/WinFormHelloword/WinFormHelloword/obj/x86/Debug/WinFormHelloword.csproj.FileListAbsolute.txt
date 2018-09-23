@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\编程学习\C#\Csharp\Hello Word\WinFormHelloword\WinFormHelloword\bin\Debug\WinFormHelloword.exe
+C:\Users\Administrator\Desktop\编程学习\C#\Csharp\Hello Word\WinFormHelloword\WinFormHelloword\bin\Debug\WinFormHelloword.pdb
+C:\Users\Administrator\Desktop\编程学习\C#\Csharp\Hello Word\WinFormHelloword\WinFormHelloword\obj\x86\Debug\WinFormHelloword.Form1.resources
+C:\Users\Administrator\Desktop\编程学习\C#\Csharp\Hello Word\WinFormHelloword\WinFormHelloword\obj\x86\Debug\WinFormHelloword.Properties.Resources.resources
+C:\Users\Administrator\Desktop\编程学习\C#\Csharp\Hello Word\WinFormHelloword\WinFormHelloword\obj\x86\Debug\WinFormHelloword.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\编程学习\C#\Csharp\Hello Word\WinFormHelloword\WinFormHelloword\obj\x86\Debug\WinFormHelloword.exe
+C:\Users\Administrator\Desktop\编程学习\C#\Csharp\Hello Word\WinFormHelloword\WinFormHelloword\obj\x86\Debug\WinFormHelloword.pdb
